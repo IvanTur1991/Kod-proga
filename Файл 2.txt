@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+<title>Insert title here</title>
+</head>
+<body bgcolor="white" style="color: white;">
+<form action="/asd/MyServlet">
+<input value="MyServlet" type="submit" >
+<div> Имя: </div>
+<input	type="text"	name="name"	value="" size="30"/>
+</form>
+</body>
+</html>
